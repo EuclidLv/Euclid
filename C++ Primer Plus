@@ -1,0 +1,12 @@
+//link: https://www.notion.so/C-Primer-Plus-bcd32aec06984b2db01e5762c1f72517?pvs=4
+
+//chapter 1
+#include <iostream>
+int(main)()
+{
+	std::cout << "hello world" << std::endl;
+}
+
+
+
+//this is also a piece of good choice
